@@ -1,3 +1,3 @@
 # Sudoku-Solver
 
-link -> https://Shubhangi22.github.io/Sudoku-Solver/
+link -> https://5hubhangi.github.io/suduko_game/
