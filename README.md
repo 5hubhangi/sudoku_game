@@ -1,3 +1,3 @@
 # Sudoku-Solver
 
-link -> https://5hubhangi.github.io/suduko_game/
+link -> https://5hubhangi.github.io/sudoku_game/
